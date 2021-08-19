@@ -8,7 +8,9 @@ import pandas as pd
 from lxml import html
 from selenium.common.exceptions import NoSuchElementException
 import csv
-
+from ec2 import access_key,secret_access_key
+import boto3
+import os
 
 options = webdriver.ChromeOptions()
 options.headless = True
@@ -86,7 +88,7 @@ with open("a.csv", 'w') as csvfile:
 
 
     b = 2
-    while b < 3:
+    while b < 40:
         a=3
         while a<43:
             accept_button = driver.find_element_by_xpath(".//a[contains(text(), '" + str(b) + "')]")
@@ -129,3 +131,10 @@ with open("a.csv", 'w') as csvfile:
             accept_button.click()
             a+=1
         b+=1
+
+client  = boto3.client('s3',aws_access_key_id=access_key,aws_secret_access_key=secret_access_key)
+for file in os.listdir():
+    if '.csv' in file:
+        upload_file_bucket = 'scrappeddata'
+        upload_file_key = 'files/' + str(file)
+        client.upload_file(file,upload_file_bucket,upload_file_key)

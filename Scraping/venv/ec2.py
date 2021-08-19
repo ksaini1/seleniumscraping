@@ -1,5 +1,2 @@
-import boto3
-ec2 = boto3.resources('ec2')
-instance = ec2.create_instance(
-    ImageId=''
-)
+access_key = 'AKIA2PB5R54JBKCDA5OI'
+secret_access_key = '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'

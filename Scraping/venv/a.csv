@@ -11,6 +11,7 @@ JAMES,PAUL,LABELLA,Pharmacist,P7148,Active,9/18/2014,12/31/2021
 ,,,Non-Resident PIC,PR53792,Cancelled by Entity,5/24/2019,12/31/2021
 AMBER,LEA,LABELLE,Practitioner Controlled Substance,CS37976,Expired,3/6/2015,12/31/2018
 Yendi,Colleen,Labelle,Practitioner Controlled Substance,CS60984,Active,3/19/2021,2/28/2022
+LEONARD,C,LABINE,Practitioner Controlled Substance,CS906,Cancelled,12/31/1998,12/31/2000
 LISA,SAID,LABOR,Practitioner Controlled Substance,CS22100,Active,7/26/2013,11/30/2021
 KEATEN,PATRICK,LABREL,Pharmacist,P7351,Expired,8/5/2015,6/30/2016
 Kimberly,Mae,LaBronte,Practitioner Controlled Substance,CS55527,Expired,9/20/2019,8/31/2020
@@ -20,8 +21,10 @@ SCOTT,JAMES,LACEFIELD,Practitioner Controlled Substance,CS36636,Expired,8/22/201
 PAUL,A,LACEY,Practitioner Controlled Substance,CS13940,Cancelled,4/22/2010,8/18/2011
 ROY,ARTHUR,LACEY,Pharmacist,P7222,Expired,2/17/2015,6/30/2019
 TIFFANI,E,LACEY,Pharmacy Technician in Training,TT16741,Expired,7/20/2011,6/30/2013
+MARK,EDGAR,LACH,Practitioner Controlled Substance,CS9597,Expired,7/16/2002,12/31/2008
 BRIAN,KEITH,LACHAPELLE,Practitioner Controlled Substance,CS21408,Active,5/17/2013,1/31/2022
 JEFF,A,LACHELT,Pharmacist,P5376,Active,5/21/2002,11/30/2021
+JEFF,A,LACHELT,Intern - Student,EI2621,Cancelled,4/7/1999,4/7/1999
 JEFF,A,LACHELT,Practitioner Controlled Substance,CS7555,Expired,12/31/1998,12/31/2001
 ALICIA,,LACHIONDO,Practitioner Controlled Substance,CS35624,Active,5/29/2014,4/30/2022
 Kevin,Charles,Lack,Practitioner Controlled Substance,CS55362,Active,9/9/2019,5/31/2022
@@ -39,6 +42,7 @@ Ari,Elise,Lacy,Student Pharmacy Technician,ST61396,Active,3/31/2021,7/15/2022
 MEGAN,ELLEN,LACY,Certified Pharmacy Technician,CT48551,Expired,6/26/2018,6/30/2019
 MEGAN,ELLEN,LACY,Pharmacy Technician in Training,TT41165,Cancelled,2/10/2016,6/26/2018
 ELAINE,M,LADD,Pharmacist,P5971,Active,12/19/2005,3/31/2022
+ELAINE,M,LADD,Intern - Student,EI3157,Cancelled,5/28/2004,12/19/2005
 KIP,PERRY,LADD,Pharmacy Technician,T5830,Cancelled,6/26/2008,4/21/2015
 KIP,PERRY,LADD,Pharmacy Technician in Training,TT38311,Cancelled,4/21/2015,8/11/2017
 ELIZABETH,MARY,LADEAUX,Certified Pharmacy Technician,CT21589,Expired,6/13/2013,6/30/2015
@@ -50,6 +54,7 @@ CAROL,ANN,LADLE,Practitioner Controlled Substance,CS8479,Expired,5/19/2000,12/31
 TYLER,JACOB,LADMAN,Pharmacy Technician in Training,TT43731,Expired,11/29/2016,6/30/2017
 Lindsey,Dayle,Ladouceur,Intern - Student,I53970,Expired,6/8/2019,7/15/2020
 BRENDA,S,LADUE,Pharmacist,P4904,Active,7/29/1992,9/30/2021
+KIM,,LADUE-WEBER,Practitioner Controlled Substance,CS8090,Expired,12/31/1998,12/31/2004
 Eric,Martin,Ladwig,Practitioner Controlled Substance,CS61398,Active,4/12/2021,7/31/2022
 MARTIN,LANDON,LADWIG,Practitioner Controlled Substance,CS41065,Expired,1/29/2016,11/30/2020
 HAYLEIGH,LYNN,LAFAUNCE,Certified Pharmacy Technician,CT48629,Active,6/28/2018,8/31/2022
@@ -66,9 +71,744 @@ TERRENCE,AURELLE,LAFLEUR,Pharmacy Technician in Training,TT15418,Cancelled,2/2/2
 JOANNE,,LAFORCE,Pharmacist,P3917,Expired,6/2/2003,6/30/2007
 STEPHEN,HENRY,LAFRANCHI,Practitioner Controlled Substance,CS12288,Expired,7/16/2007,12/31/2009
 AILIE,A,LAFRENZ,Pharmacy Technician,T4676,Cancelled,10/20/2006,7/1/2012
+RENA,BETH,LAGANA,Pharmacy Technician,T1621,Expired,6/5/2002,6/30/2004
 JEFF,,LAGASSE,Non-Resident Pharmacist,PR37979,Cancelled,3/5/2015,6/30/2019
 Brittney,Nicole,Lager,Pharmacist,P8349,Active,5/10/2019,12/31/2021
+LYNN,G,LAGERQUIST,Practitioner Controlled Substance,CS8311,Expired,1/7/2000,12/31/2000
 Lisa,Lynn,Laginess,Practitioner Controlled Substance,CS58223,Active,6/5/2020,9/30/2021
 RYANN,LYNN,LAGOMARSINO,Practitioner Controlled Substance,CS60811,Active,3/19/2021,8/31/2021
 Kim,,LaGrand,Pharmacy Technician,T59477,Active,10/2/2020,7/31/2022
 DEANNA,KAY,LAGUNAS,Pharmacy Technician in Training,TT20552,Expired,1/17/2013,6/30/2013
+MIKAEL,,LAGWINSKI,Practitioner Controlled Substance,CS11501,Active,5/25/2006,7/31/2022
+MICHAEL,D,LAHEY,Practitioner Controlled Substance,CS34198,Expired,11/8/2001,12/31/2015
+MICHAEL,D,LAHEY,Practitioner Controlled Substance,CS9284,Expired,11/8/2001,12/31/2011
+STEPHANIE,J,LAHR,Practitioner Controlled Substance,CS13231,Expired,2/3/2009,12/31/2016
+JONATHAN,KWOK-BONG,LAI,Pharmacist,P8886,Active,6/30/2020,2/28/2022
+JONATHAN,KWOK-BONG,LAI,Certified Pharmacy Technician,CT39873,Superceded,8/13/2015,6/17/2016
+JONATHAN,KWOK-BONG,LAI,Pharmacy Technician in Training,TT36978,Superceded,10/7/2014,8/13/2015
+JONATHAN,KWOK-BONG,LAI,Intern - Student,E42266,Superceded,6/18/2016,7/15/2021
+JONATHAN,SCOTT,LAI,Intern - Student,EI3553,Expired,5/22/2007,7/15/2011
+KATHERINE,MIKAL,LAIBLE,Practitioner Controlled Substance,CS12049,Active,3/26/2007,12/31/2021
+BRUCE,E,LAIDIG,Practitioner Controlled Substance,CS5915,Expired,3/6/2000,12/31/2006
+JERSHON,SAM KALEI,LAIMANA,Pharmacy Technician,T3740,Expired,12/30/2004,6/30/2005
+THOMAS,M,LAIN,Practitioner Controlled Substance,CS5244,Expired,12/31/1998,12/31/2002
+SUSAN,M,LAING,Practitioner Controlled Substance,CS36086,Active,2/13/2001,3/31/2022
+JESSICA,ANDERSON,LAINHART,Pharmacist,P9246,Active,2/19/2021,4/30/2022
+JESSICA,ANDERSON,LAINHART,Intern - Student,E40858,Superceded,1/6/2016,7/15/2018
+LESLIE,ROBERTSON,LAIR,Pharmacist,P7988,Expired,4/18/2018,11/30/2020
+,,,Non-Resident PIC,PR54473,Active,7/8/2019,11/30/2021
+ASHELY,ANN,LAIRSON,Pharmacy Technician in Training,TT37673,Cancelled,1/20/2015,10/29/2015
+BILL,T,LAITINEN,Practitioner Controlled Substance,CS11411,Active,2/23/2006,2/28/2022
+DALE,HARRY,LAKE,Practitioner Controlled Substance,CS38184,Active,4/3/2015,9/30/2021
+DEBORAH STARR,,LAKE,Practitioner Controlled Substance,CS7614,Cancelled,12/31/1998,12/31/2000
+JASON,THOMAS,LAKE,Practitioner Controlled Substance,CS16946,Active,8/9/2011,4/30/2022
+JOHN,F,LAKE,Practitioner Controlled Substance,CS7615,Cancelled,12/31/1998,12/31/2000
+JUSTIN,WILLIAM,LAKE,Pharmacist,P7657,Active,10/24/2016,10/31/2021
+LINDSEY,EILEEN M,LAKE,Certified Pharmacy Technician,CT45473,Active,6/15/2017,10/31/2021
+LINDSEY,EILEEN M,LAKE,Pharmacy Technician in Training,TT37830,Cancelled,2/17/2015,6/30/2017
+MELVINA,SUE,LAKE,Pharmacist,P8897,Active,7/9/2020,11/30/2021
+MELVINA,SUE,LAKE,Intern - Student,E42422,Superceded,6/29/2016,7/15/2020
+SCOTT,ANTHONY,LAKE,Practitioner Controlled Substance,CS42249,Active,6/17/2016,1/31/2022
+CHRISTOPHER,,LAKEY,Pharmacist,P6646,Active,5/23/2012,12/31/2021
+CHRISTOPHER,,LAKEY,Intern - Student,EI3694,Cancelled,6/13/2008,5/23/2012
+VALERIE,JUNE,LAKEY,Pharmacy Technician,TT48068,Expired,5/2/2018,6/30/2020
+ROBERT,JORDAN,LAKKO,Practitioner Controlled Substance,CS40277,Active,10/2/2015,5/31/2022
+DEVIN,MICHELLE,LAKY,Practitioner Controlled Substance,CS41532,Active,4/1/2016,4/30/2022
+BETH,MICHELE,LALANDE,Practitioner Controlled Substance,CS12240,Expired,6/27/2007,12/31/2008
+ROBERT,C,LALIBERTE,Practitioner Controlled Substance,CS9288LT,Cancelled,11/21/2001,12/31/2002
+VIKAS,,LALL,Practitioner Controlled Substance,CS13842,Cancelled,2/11/2010,10/15/2014
+MARK,,LALLATIN,Pharmacist,P1592,Cancelled,,
+MARK,M,LALLATIN,Pharmacist,P3273,Expired,5/22/2002,6/30/2012
+MATTHEW,JOHN,LALLMAN,Pharmacy Technician,T3627,Expired,10/6/2004,6/30/2009
+EVERETT,R,LALLY,Certified Pharmacy Technician,CT14743,Cancelled,9/27/2010,7/1/2012
+RICHARD,E,LALLY,Practitioner Controlled Substance,CS8764,Expired,12/11/2000,12/31/2014
+SARAH,FILLIBEN,LALONDE,Practitioner Controlled Substance,CS36054,Expired,7/3/2014,12/31/2017
+ANDY,,LAM,Intern - Student,E40851,Expired,1/5/2016,7/15/2018
+Brandee,CECELIA,Lam,Non-Resident Pharmacist,PR37400,Expired,12/2/2014,6/30/2018
+,,,Non-Resident PIC,PR54949,Active,8/8/2019,1/31/2022
+Garrett,Ka Keung,Lam,Practitioner Controlled Substance,CS55503,Expired,9/20/2019,6/30/2020
+Garrett,Ka Keung,Lam,Practitioner Controlled Substance,CS59447,Active,10/2/2020,6/30/2022
+HONG,T,LAM,Non-Resident Pharmacist,PR34587,Cancelled,2/14/2014,5/24/2017
+LINDA,,LAM,Practitioner Controlled Substance,CS18591,Active,4/19/2012,10/31/2021
+LOAN,CHAU,LAM,Pharmacist,P9108,Active,10/7/2020,8/31/2021
+LOAN,CHAU,LAM,Intern - Student,E47672,Superceded,3/19/2018,7/15/2020
+MELONIE,K,LAM,Intern - Student,E44830,Expired,4/6/2017,7/15/2020
+NAOMI,,LAM,Pharmacy Technician in Training,TT34384,Expired,1/21/2014,6/30/2014
+PHI,,LAM,Pharmacist,P8126,Expired,8/22/2018,1/31/2019
+Teresa,,Lam,Practitioner Controlled Substance,CS54755,Expired,7/26/2019,4/30/2020
+TUYETLIEN,DO,LAM,Certified Pharmacy Technician,CT45953,Expired,7/27/2017,6/30/2019
+YUET HING,,LAM,Pharmacist,P4674,Active,3/29/1988,12/31/2021
+,,,Non-Resident PIC,PR44416,Active,2/16/2017,3/31/2022
+BRYAN,H,LAMB,Practitioner Controlled Substance,CS11777,Expired,9/12/2006,12/31/2009
+BRYAN,H,LAMB,Practitioner Controlled Substance,CS16859,Active,8/2/2011,4/30/2022
+Carrie,Sue,Lamb,Practitioner Controlled Substance,CS61571,Active,4/30/2021,2/28/2022
+CHRISTOPHER,S,LAMB,Pharmacy Technician in Training,TT16106,Expired,5/5/2011,6/30/2013
+ERIC,R,LAMB,Practitioner Controlled Substance,CS8650,Expired,8/16/2000,12/31/2002
+J NICOLE,,LAMB,Practitioner Controlled Substance,CS11428,Active,3/15/2006,7/31/2022
+JAN,LEAH,LAMB,Practitioner Controlled Substance,CS8330,Expired,1/13/2000,12/31/2004
+JAROM,FREDERICK,LAMB,Practitioner Controlled Substance,CS18780,Active,5/16/2012,5/31/2022
+JUSTIN,,LAMB,Practitioner Controlled Substance,CS11715LT,Expired,8/10/2006,8/19/2006
+JUSTIN,ALVIN,LAMB,Practitioner Controlled Substance,CS11961,Active,1/10/2007,10/31/2021
+KIRSTEN,FOX,LAMB,Practitioner Controlled Substance,CS47731,Active,3/22/2018,7/31/2022
+MARIA,K,LAMB,Pharmacy Technician in Training,TT14633,Expired,8/30/2010,8/29/2011
+ROBERT,B,LAMB,Practitioner Controlled Substance,CS12761,Expired,6/5/2008,12/31/2015
+SEAN,SCOTT,LAMB,Practitioner Controlled Substance,CS42998,Active,9/1/2016,11/30/2021
+BONNIE,V,LAMBERT,Pharmacist,P4871,Cancelled,6/30/1996,6/30/1997
+CATHERINE,A,LAMBERT,Practitioner Controlled Substance,CS6046,Expired,8/23/1994,12/31/2019
+CHERYL,A,LAMBERT,Certified Pharmacy Technician,CT16743,Active,7/20/2011,6/30/2022
+CHERYL,A,LAMBERT,Pharmacy Technician in Training,TT6793,Expired,3/5/2010,3/4/2011
+CODY,THOMAS,LAMBERT,Pharmacy Technician in Training,TT21455,Expired,5/22/2013,6/30/2014
+DANIEL,STEPHEN,LAMBERT,Practitioner Controlled Substance,CS37501,Expired,12/17/2014,12/31/2016
+DANIEL,STEPHEN,LAMBERT,Practitioner Controlled Substance,CS47657,Expired,3/20/2018,12/31/2018
+DANIEL,STEPHEN,LAMBERT,Practitioner Controlled Substance,CS53593,Expired,5/17/2019,3/31/2020
+EILEEN,,LAMBERT,Certified Pharmacy Technician,CT18247,Expired,2/28/2012,6/30/2013
+EILEEN,,LAMBERT,Certified Pharmacy Technician,CT60833,Active,2/9/2021,3/31/2022
+EILEEN,,LAMBERT,Pharmacy Technician,T58986,Superceded,8/14/2020,3/31/2021
+JEFFREY,S,LAMBERT,Practitioner Controlled Substance,CS12528,Expired,12/10/2007,12/31/2008
+KAREN,CHRISTINE,LAMBERT,Intern - Student,E3779,Expired,5/18/2009,7/15/2013
+KATHLEEN,A,LAMBERT,Pharmacy Technician,T5140,Expired,6/22/2007,6/30/2010
+MARK,C,LAMBERT,Practitioner Controlled Substance,CS9987,Active,5/21/2003,6/30/2022
+MARSHALL,JUEL,LAMBERT,Certified Pharmacy Technician,CT36308,Active,7/22/2014,3/31/2022
+MARSHALL,JUEL,LAMBERT,Pharmacy Technician in Training,TT19870,Cancelled,9/20/2012,7/22/2014
+PAUL,M,LAMBERT,Practitioner Controlled Substance,CS36303,Expired - Fee Exempt,7/22/2014,4/30/2020
+PAUL,W,LAMBERT,Practitioner Controlled Substance,CS3596,Cancelled,12/31/1998,12/31/2002
+PAULA,,LAMBERT,Certified Pharmacy Technician,CT14422,Expired,7/27/2010,12/31/2020
+PAULA,,LAMBERT,Pharmacy Technician,T1836,Cancelled,6/10/2002,7/26/2010
+RICHARD,JAMES,LAMBERT,Practitioner Controlled Substance,CS47237,Expired,1/22/2018,6/30/2021
+RIKI,R,LAMBERT,Practitioner Controlled Substance,CS13791,Active,1/8/2010,4/30/2022
+RORY,,LAMBERT,Pharmacy Technician,T2586,Expired,6/6/2002,6/30/2003
+RORY,P,LAMBERT,Pharmacist,P6387,Active,5/19/2010,1/31/2022
+RORY,P,LAMBERT,Intern - Student,EI3531,Cancelled,2/23/2007,7/7/2010
+Sean,Anthony,Lambert,Intern - Student,I54645,Cancelled,7/18/2019,1/17/2020
+Sheena,Louise,Lambert,Pharmacy Technician,TT52230,Expired,1/23/2019,4/30/2021
+FALLYN,RAY,LAMBERTSEN,Pharmacy Technician in Training,TT48623,Superceded,6/28/2018,6/30/2020
+FALLYN,RAY,LAMBERTSEN,Intern - Student,I53818,Active,5/28/2019,7/15/2022
+COLLEEN,K,LAMBERTZ,Practitioner Controlled Substance,CS8480,Expired,5/19/2000,12/31/2018
+SYDNEY,ARIEL,LAMBETH,Pharmacy Technician in Training,TT41161,Cancelled,2/10/2016,4/5/2016
+KEVIN 'CHAD',,LAMBOURNE,Practitioner Controlled Substance,CS11426,Expired,3/14/2006,12/31/2009
+DEVIN,FREDERICK,LAMBRECHT,Pharmacy Technician in Training,TT44667,Expired,3/15/2017,6/30/2017
+JENNIFER,,LAMBRECHT,Intern - Student,EI5503,Cancelled,,1/1/1900
+Jessica,,Lambright,Intern - Student,I58685,Active,7/16/2020,7/15/2022
+JULIANNA,MARIE,LAMBRIGHT,Pharmacy Technician in Training,TT48478,Superceded,6/18/2018,6/30/2020
+JULIANNA,MARIE,LAMBRIGHT,Intern - Student,I54016,Active,6/11/2019,7/15/2022
+AMMON,,LAMBSON,Practitioner Controlled Substance,CS43130,Active,9/16/2016,5/31/2022
+DAVID,C,LAMBSON,Certified Pharmacy Technician,CT15315,Expired,1/11/2011,6/30/2014
+DAVID,C,LAMBSON,Pharmacy Technician in Training,TT6628,Cancelled,10/27/2009,1/10/2011
+JENNIFER,J,LAMBSON,Certified Pharmacy Technician,CT53450,Active,5/1/2019,11/30/2021
+JENNIFER,J,LAMBSON,Pharmacy Technician,T2034,Superceded,12/22/2000,6/30/2019
+JUSTUS,FLIN,LAMBSON,Practitioner Controlled Substance,CS40348,Active,10/9/2015,3/31/2022
+GESA,M,LAMERS,Practitioner Controlled Substance,CS8072,Cancelled,12/31/1998,3/27/2008
+JOHN,,LAMERS,Practitioner Controlled Substance,CS11980,Active,1/25/2007,10/31/2021
+MICHAEL,J,LAMERS,Practitioner Controlled Substance,CS11034,Active,6/24/2005,10/31/2021
+STACY,J,LAMERS,Practitioner Controlled Substance,CS11069,Active,7/12/2005,12/31/2021
+DAVID,M,LAMEY,Practitioner Controlled Substance,CS6980,Active,12/31/1998,10/31/2021
+KATHLEEN,MARY,LAMEY,Pharmacy Technician,T3264,Expired,1/16/2004,6/30/2004
+CRISTINA,IOANA,LAMITINA,Certified Pharmacy Technician,CT48639,Active,6/29/2018,10/31/2021
+CRISTINA,IOANA,LAMITINA,Pharmacy Technician in Training,TT41602,Cancelled,4/7/2016,6/29/2018
+ERNEST,P,LAMKEN,Pharmacist,P5167,Expired,6/26/2002,6/30/2016
+FRANK,R,LAMM,Practitioner Controlled Substance,CS10761,Cancelled by Entity,11/1/2004,1/31/2020
+LISA,WAI CHING,LAMM,Pharmacy Technician,T5617,Cancelled,2/8/2008,7/1/2009
+Ashley,,Lammers,Practitioner Controlled Substance,CS52500,Active,2/15/2019,11/30/2021
+BEVERLY,A,LAMMERS,Practitioner Controlled Substance,CS35435,Active,5/9/2014,11/30/2021
+JENNA,,LAMMERS,Pharmacist,P6629,Active,4/23/2012,8/31/2022
+TONI,ELIZABETH,LAMMERS,Pharmacy Technician in Training,TT42867,Expired,8/17/2016,6/30/2017
+Matthew,Neil,Lamont,Practitioner Controlled Substance,CS59101,Active,9/11/2020,4/30/2022
+Taylor,Marie,LaMont,Certified Pharmacy Technician,CT55460,Active,9/13/2019,2/28/2022
+Taylor,Marie,LaMont,Student Pharmacy Technician,ST52108,Superceded,1/14/2019,7/15/2020
+LESLIE,LYNN,LAMONTAGNE,Pharmacist,P7864,Active,9/5/2017,11/30/2021
+LESLIE,LYNN,LAMONTAGNE,Certified Pharmacy Technician,CT16464,Cancelled,6/28/2011,6/30/2015
+LESLIE,LYNN,LAMONTAGNE,Pharmacy Technician in Training,TT6870,Cancelled,1/1/2001,1/1/2001
+LESLIE,LYNN,LAMONTAGNE,Intern - Student,E36163,Cancelled,7/11/2014,6/13/2016
+LESLIE,LYNN,LAMONTAGNE,Intern - Graduate,I45879,Cancelled,7/22/2017,9/5/2017
+HEATH,D,LAMOREAUX,Intern - Student,EI3004,Expired,8/30/2002,7/15/2006
+WAYNE,T,LAMOREAUX,Practitioner Controlled Substance,CS34305,Active,1/8/2014,6/30/2022
+Fernando,Neves,Lamounier,Practitioner Controlled Substance,CS57574,Active,4/24/2020,9/30/2021
+Louis,Michael,Lampell,Pharmacy Technician,TT53876,Active,5/30/2019,10/31/2021
+Rebecca,,Lamping,Pharmacy Technician,T60377,Active,12/28/2020,8/31/2022
+Carly,Yvette,LaMure,Practitioner Controlled Substance,CS61960,Active,6/23/2021,12/31/2021
+AARON,FLETCHER,LANCASTER,Practitioner Controlled Substance,CS44188,Active,1/24/2017,3/31/2022
+BRETT,,LANCASTER,Practitioner Controlled Substance,CS18288,Active,3/2/2012,11/30/2021
+EMILY,SMITH,LANCASTER,Non-Resident Pharmacist,PR44635,Expired,3/10/2017,6/30/2017
+JARED,ROSS,LANCASTER,Certified Pharmacy Technician,CT21317,Expired,5/6/2013,6/30/2014
+JONATHAN,DAVID,LANCASTER,Pharmacy Technician in Training,TT37513,Expired,12/17/2014,6/30/2016
+Katrina,,Lancaster,Pharmacist,P8356,Active,5/15/2019,8/31/2021
+Kenneth,Bruce,Lancaster,Practitioner Controlled Substance,CS55744,Active,10/15/2019,5/31/2022
+SHELBY,LYNN,LANCASTER,Pharmacist,P7516,Active,6/7/2016,5/31/2022
+SHELBY,LYNN,LANCASTER,Pharmacy Technician in Training,TT16684,Expired,7/14/2011,6/30/2012
+SHELBY,LYNN,LANCASTER,Intern - Student,E18935,Cancelled,5/31/2012,7/16/2016
+GEORGIA,L,LANCE,Pharmacy Technician,T4796,Cancelled,12/14/2006,7/1/2012
+JASON,NOEL,LANCE,Practitioner Controlled Substance,CS19675,Cancelled,8/28/2012,9/8/2015
+JILL,,LANCE,Pharmacist,P5811,Active,5/10/2004,11/30/2021
+JILL,,LANCE,Certified Pharmacy Technician,CT22435,Active,9/10/2013,1/31/2022
+JILL,,LANCE,Pharmacy Technician in Training,TT21129,Cancelled,4/1/2013,9/9/2013
+MICHAEL,DAVID,LANCE,Practitioner Controlled Substance,CS40569,Expired,11/13/2015,11/30/2019
+,,,Non-Resident PIC,PR37942,Cancelled by Entity,3/2/2015,7/31/2020
+LEE,,LAND,Pharmacist,P3464,Expired,5/31/2002,6/30/2009
+MICHAEL,DAVID,LAND,Pharmacist,P8563,Active,10/4/2019,4/30/2022
+MICHAEL,DAVID,LAND,Pharmacy Technician in Training,TT6558,Superceded,9/8/2009,9/7/2010
+MICHAEL,DAVID,LAND,Intern - Student,E47665,Superceded,3/15/2018,7/15/2019
+SONIA,S,LANDA,Pharmacy Technician,T1913,Expired,9/12/2000,6/30/2005
+ALEXANDRIA,MONIQUE,LANDAVERDE,Pharmacist,P9427,Active,7/6/2021,7/31/2022
+ALEXANDRIA,MONIQUE,LANDAVERDE,Pharmacy Technician in Training,TT42980,Superceded,8/31/2016,6/30/2017
+ALEXANDRIA,MONIQUE,LANDAVERDE,Intern - Student,E45510,Superceded,6/15/2017,7/15/2021
+COLIN,JOSEPH,LANDELLS,Pharmacy Technician in Training,TT41176,Cancelled,2/10/2016,4/11/2016
+Ethan,David,Landells,Certified Pharmacy Technician,CT55255,Active,8/29/2019,12/31/2021
+Ethan,David,Landells,Pharmacy Technician in Training,TT51027,Superceded,10/3/2018,10/3/2020
+Ashley,Danielle,Landerman,Pharmacy Technician,TT55272,Active,8/29/2019,12/31/2021
+DAVID,LEE,LANDERS,Certified Pharmacy Technician,CT14692,Expired,9/15/2010,6/30/2016
+DAVID,LEE,LANDERS,Pharmacy Technician in Training,TT14074,Cancelled,6/7/2010,9/14/2010
+DENNIS,F,LANDERS,Practitioner Controlled Substance,CS12735,Expired,5/9/2008,12/31/2012
+JAMES,L,LANDERS,Practitioner Controlled Substance,CS16055,Expired,12/31/1998,12/31/2017
+JAMES,L,LANDERS,Practitioner Controlled Substance,CS2243,Expired,12/31/1998,12/31/2009
+PAIGE,,LANDERS,Practitioner Controlled Substance,CS13070,Active,10/15/2008,3/31/2022
+ROBIN,KAY,Landers,Certified Pharmacy Technician,CT16974,Expired,8/9/2011,6/30/2019
+ROBIN,KAY,Landers,Certified Pharmacy Technician,CT61043,Active,3/1/2021,7/31/2022
+ROBIN,KAY,Landers,Pharmacy Technician,T2266,Superceded,7/27/2001,7/24/2009
+ROBIN,KAY,Landers,Pharmacy Technician in Training,TT2266,Superceded,7/28/2009,8/8/2011
+SCOTT,ALAN,LANDERS,Intern - Student,EI2835,Expired,12/15/2000,7/15/2006
+Scott,James,Landers,Pharmacy Technician,TT53455,Expired,5/2/2019,3/31/2021
+TROY,AARON,LANDES,Practitioner Controlled Substance,CS17163,Active,9/2/2011,10/31/2021
+CHARLES,W,LANDGRAF,Practitioner Controlled Substance,CS5568,Expired,12/31/1998,12/31/2001
+BETH,E,LANDIS,Practitioner Controlled Substance,CS10993,Cancelled,6/3/2005,11/4/2015
+DAVID,M,LANDIS,Practitioner Controlled Substance,CS10211,Active,9/12/2003,6/30/2022
+JONNIE,P,LANDIS,Practitioner Controlled Substance,CS8957,Cancelled,5/8/2001,10/14/2003
+Brent,Joseph,Landkammer,Practitioner Controlled Substance,CS53405,Expired,5/3/2019,10/31/2019
+VICKIE,LYNNE,LANDKAMMER,Pharmacist,P7607,Active,8/1/2016,2/28/2022
+,,,Non-Resident PIC,PR55150,Cancelled by Entity,8/22/2019,2/28/2021
+KELLY,M,LANDLE,Practitioner Controlled Substance,CS13019,Active,8/28/2008,9/30/2021
+COURTNEY,A,LANDO,Practitioner Controlled Substance,CS9798,Cancelled,11/19/2002,5/18/2005
+Louis,Michael,Landolfi,Practitioner Controlled Substance,CS55349,Active,9/9/2019,9/30/2021
+KIP,,LANDON,Intern - Student,EI2216,Cancelled,,
+KIP,D,LANDON,Intern - Student,EI2396,Cancelled,4/30/1997,4/30/1998
+KIP,DELON,LANDON,Pharmacist,P5264,Active,6/13/2002,1/31/2022
+TARRAH,LYN,LANDON,Pharmacy Technician in Training,TT47368,Revoked,2/8/2018,6/30/2020
+Alexa,Kathleen,Landreaux,Certified Pharmacy Technician,CT62356,Active,6/21/2021,6/30/2022
+Alexa,Kathleen,Landreaux,Pharmacy Technician,T59315,Superceded,9/18/2020,6/30/2022
+Karissa,,Landres,Certified Pharmacy Technician,CT53526,Expired,5/7/2019,1/31/2020
+AMY,L,LANDRUM,Pharmacy Technician,TT48238,Expired,5/29/2018,6/30/2020
+Lisa,,Landrum,Practitioner Controlled Substance,CS55595,Cancelled by Entity,9/27/2019,11/30/2020
+BARBARA,A,LANDRY,Certified Pharmacy Technician,CT1181,Active,3/16/2010,3/31/2022
+BARBARA,A,LANDRY,Pharmacy Technician,T4156,Cancelled,11/8/2005,3/15/2010
+Jennifer,McKenzie,Landry,Practitioner Controlled Substance,CS53330,Active,4/26/2019,3/31/2022
+Branda,Raye,Lane,Pharmacy Technician,T58937,Expired,8/11/2020,7/31/2021
+BRANDON,,LANE,Practitioner Controlled Substance,CS9769,Expired,10/28/2002,12/31/2010
+CHARLES,DEAN,LANE,Pharmacy Technician,T4245,Expired,1/26/2006,6/30/2007
+DAVID,J,LANE,Practitioner Controlled Substance,CS7043,Cancelled,12/31/1996,12/31/1997
+Erin,Richardson,Lane,Practitioner Controlled Substance,CS51120,Active,10/19/2018,5/31/2022
+GARY,KEITH,LANE,Certified Pharmacy Technician,CT17256,Expired,9/21/2011,6/30/2019
+GARY,KEITH,LANE,Pharmacy Technician,T4100,Cancelled,9/23/2005,7/1/2011
+JILL,M,LANE,Practitioner Controlled Substance,CS11309,Active,11/15/2005,2/28/2022
+MEGAN,MARIE,LANE,Practitioner Controlled Substance,CS41292,Active,2/26/2016,5/31/2022
+MICHAEL,J,LANE,Practitioner Controlled Substance,CS9496,Active,5/30/2002,4/30/2022
+Michael,Lindberg,Lane,Practitioner Controlled Substance,CS56679,Active,12/27/2019,9/30/2022
+PEGGY,LOUISE,LANE,Pharmacy Technician,T1952,Expired,10/16/2000,6/30/2001
+RICHARD,H,LANE,Practitioner Controlled Substance,CS5640,Expired,12/31/1998,12/31/2002
+SARAH,C,LANE,Pharmacist,P7386,Expired,10/15/2015,5/31/2020
+SARAH,MARIE,LANE,Practitioner Controlled Substance,CS12415,Cancelled,9/24/2007,4/27/2010
+SARAH,MARIE,LANE,Practitioner Controlled Substance,CS20352,Active,12/7/2012,4/30/2022
+TERRY,ANN,LANE,Practitioner Controlled Substance,CS7874,Expired,12/31/1998,12/31/2013
+THERESA,MARIE,LANE,Pharmacist,P6960,Active,1/21/2014,1/31/2022
+V MICHAEL,,LANE,Practitioner Controlled Substance,CS7452,Expired,12/31/1998,12/31/1999
+JEFFREY,,LANEY,Practitioner Controlled Substance,CS4454,Active,1/1/2000,6/30/2022
+LAURA,L,LANEY,Pharmacist,P5265,Cancelled,6/30/1997,6/30/1998
+LAURA,L,LANEY,Intern - Student,EI2284,Cancelled,,
+Alan,Chi,Lang,Pharmacist,P9488,Active,7/22/2021,4/30/2022
+ANGELA,,LANG,Non-Resident Pharmacist,PR34482,Expired,2/1/2014,6/30/2015
+Brook,Yuknis,Lang,Practitioner Controlled Substance,CS56193,Active,11/15/2019,3/31/2022
+GREGORY,ROBERT,LANG,Practitioner Controlled Substance,CS34964,Expired,6/27/2013,4/30/2020
+JASON,,LANG,Pharmacist,P7326,Expired,7/15/2015,6/30/2018
+,,,Non-Resident PIC,PR48541,Active,6/22/2018,7/31/2022
+JEROME,P,LANG,Practitioner Controlled Substance,CS5337,Expired,12/31/1998,12/31/2001
+JILL,C,LANG,Practitioner Controlled Substance,CS42781,Active,8/5/2016,7/31/2022
+JUERGEN,,LANG,Practitioner Controlled Substance,CS13238,Expired,2/11/2009,12/31/2017
+JUERGEN,,LANG,Practitioner Controlled Substance,CS58327,Active,6/19/2020,2/28/2022
+LANG,,LANG,Intern - Student,E3942,Cancelled,5/3/2010,6/3/2014
+MELANIE,S,LANG,Practitioner Controlled Substance,CS13873,Cancelled,3/8/2010,12/11/2014
+PAUL,A,LANG,Practitioner Controlled Substance,CS3928,Active,12/31/1998,7/31/2022
+TAMMY,KAYE,LANG,Pharmacy Technician,T4449,Expired,6/23/2006,6/30/2007
+Virginia,Ann,Lang,Pharmacy Technician,T59661,Active,10/20/2020,6/30/2022
+CODY,JOHN,LANGAAS,Pharmacist,P7648,Active,9/26/2016,10/31/2021
+CHARLES,R,LANGE,Practitioner Controlled Substance,CS2471,Cancelled,12/31/1998,10/14/2009
+SAMANTHA,RAE,LANGE,Practitioner Controlled Substance,CS43641,Active,11/18/2016,4/30/2022
+,,,Non-Resident PIC,PR62058,Active,5/25/2021,9/30/2022
+Pamela,Sue,Langenderfer,Practitioner Controlled Substance,CS60678,Active,2/19/2021,1/31/2022
+ALAN,DAVID,LANGERAK,Practitioner Controlled Substance,CS16448,Expired,6/24/2011,12/31/2018
+KELLY,KAY,LANGERAK,Pharmacist,P6787,Expired,5/9/2013,6/30/2019
+KELLY,KAY,LANGERAK,Intern - Graduate,I18028,Cancelled,1/1/2001,1/1/2001
+Julie,Anne,Langevin,Certified Pharmacy Technician,CT54879,Active,8/2/2019,5/31/2022
+Julie,Anne,Langevin,Pharmacy Technician in Training,TT51075,Superceded,10/5/2018,10/5/2020
+DOUGLAS,SAMUEL,LANGFORD,Certified Pharmacy Technician,CT61793,Active,4/28/2021,9/30/2021
+DOUGLAS,SAMUEL,LANGFORD,Pharmacy Technician,TT46302,Superceded,9/11/2017,9/30/2021
+Makaylie,,Langford,Pharmacy Technician,T60774,Active,2/3/2021,5/31/2022
+RACHEL,JANET,LANGFORD,Pharmacy Technician,TT48387,Expired,6/8/2018,6/30/2020
+Mona,,Lang-Gillming,Pharmacy Technician,T1989,Expired,11/14/2000,6/30/2001
+MICHAEL,,LANGIULLI,Practitioner Controlled Substance,CS13203,Expired,1/6/2009,12/31/2009
+,,,Non-Resident PIC,PR42872,Expired,8/17/2016,1/31/2021
+KATHERINE,J,LANGLEY,Certified Pharmacy Technician,CT1034,Cancelled,8/31/2009,7/1/2010
+KATHERINE,J,LANGLEY,Certified Pharmacy Technician,CT17712,Expired,8/31/2009,6/30/2017
+REX,N,LANGLEY,Practitioner Controlled Substance,CS1117,Cancelled,12/31/1998,12/2/2004
+Victoria,,Langley,Pharmacy Technician,TT56469,Active,12/10/2019,10/31/2021
+KRISTI,M,LANGRIDGE,Pharmacy Technician,T3784,Expired,2/11/2005,6/30/2005
+Cristina,Leigh,Langston,Pharmacy Technician,TT53016,Active,3/27/2019,9/30/2021
+JACOB,CRAWFORD,LANGSTON,Practitioner Controlled Substance,CS20365,Active,12/7/2012,10/31/2021
+Ashley,Ann,Langton,Certified Pharmacy Technician,CT50938,Active,9/26/2018,3/31/2022
+DAVID,PAUL,LANGTON,Pharmacy Technician,T2992,Expired,5/30/2003,6/30/2006
+shelby,lynn,languein,Pharmacy Technician,TT54903,Active,8/6/2019,7/31/2022
+Anders,,Langworthy,Practitioner Controlled Substance,CS58515,Active,7/1/2020,2/28/2022
+ZAYNE,B,LANIER,Pharmacist,P9387,Active,6/23/2021,6/30/2022
+ZAYNE,B,LANIER,Pharmacy Technician in Training,TT41870,Superceded,5/10/2016,6/7/2017
+ZAYNE,B,LANIER,Intern - Student,E45353,Superceded,6/8/2017,7/15/2021
+CORY,RAY,LANKFORD,Pharmacist,P8438,Active,7/11/2019,10/31/2021
+CORY,RAY,LANKFORD,Certified Pharmacy Technician,CT22053,Superceded,7/24/2013,6/10/2015
+CORY,RAY,LANKFORD,Pharmacy Technician in Training,TT19528,Superceded,7/31/2012,7/23/2013
+CORY,RAY,LANKFORD,Intern - Student,E38911,Superceded,6/10/2015,7/15/2019
+Kelly,,Lanman,Pharmacy Technician,T57619,Active,3/23/2020,7/31/2022
+SARAH,ASHLEY,LANOIE,Intern - Student,E41572,Expired,4/6/2016,7/15/2020
+Joel,Isidore,Lans,Practitioner Controlled Substance,CS53594,Active,5/17/2019,8/31/2022
+Joel,Isidore,Lans,Practitioner Controlled Substance,CS62224,Active,6/23/2021,8/31/2022
+JAMES,M,LANSCHE,Practitioner Controlled Substance,CS1693,Expired,12/31/1998,12/31/1999
+ROBYN,DEE,LANSDALE,Certified Pharmacy Technician,CT41408,Expired,3/15/2016,6/30/2017
+GEORGE,,LANSKE,Practitioner Controlled Substance,CS37527,Cancelled by Entity,12/18/2014,12/31/2018
+JAMES,K,LANTER,Practitioner Controlled Substance,CS7079,Cancelled,12/31/1997,12/31/1998
+JENNIFER,R,Lanterman,Certified Pharmacy Technician,CT20852,Expired,3/4/2013,6/30/2018
+JENNIFER,R,Lanterman,Certified Pharmacy Technician,CT63152,Active,8/17/2021,10/31/2021
+JENNIFER,R,Lanterman,Pharmacy Technician in Training,TT14978,Superceded,11/4/2010,11/3/2011
+A JOHN,,LANTING,Practitioner Controlled Substance,CS2220,Active,12/31/1998,6/30/2022
+JENNIFER,LYNN,LANTING,Practitioner Controlled Substance,CS11535,Active,6/13/2006,7/31/2022
+TODD,J,LANTING,Practitioner Controlled Substance,CS11561,Active,6/22/2006,4/30/2022
+Charles,Francis,Lanzillo,Practitioner Controlled Substance,CS54041,Active,6/17/2019,12/31/2021
+Arthur,Phillip,Laos,Practitioner Controlled Substance,CS61812,Active,5/21/2021,7/31/2022
+DEAN,E,LAPINEL,Practitioner Controlled Substance,CS6109,Active,12/31/1998,4/30/2022
+JENNIFER,L,LAPLANTE,Pharmacy Technician in Training,TT14133,Cancelled,6/15/2010,7/1/2012
+JESSICA,L,LAPLANTE,Practitioner Controlled Substance,CS36764,Expired,9/8/2014,2/28/2021
+JESSICA,L,LAPLANTE,Practitioner Controlled Substance,CS56789,Active,1/10/2020,2/28/2022
+Taylor,R,Lapp,Practitioner Controlled Substance,CS56270,Expired,11/22/2019,6/30/2021
+Salma,Maria,Lara Martinez,Pharmacy Technician,T61361,Active,3/29/2021,7/31/2022
+CELESTE,R,LARA,Pharmacy Technician,T4344,Expired,4/14/2006,6/30/2008
+ERIK,,LARA,Certified Pharmacy Technician,CT57325,Active,2/21/2020,8/31/2021
+ERIK,,LARA,Pharmacy Technician,T5885,Superceded,7/25/2008,7/1/2012
+NOHWI,L,LARA,Pharmacy Technician,T6279,Expired,4/1/2009,6/30/2009
+SHERI,RENEE,LARA,Certified Pharmacy Technician,CT39117,Expired,6/22/2015,10/31/2020
+SHERI,RENEE,LARA,Pharmacy Technician in Training,TT34073,Cancelled,12/9/2013,6/22/2015
+Taylor,Rhodes,Lara,Practitioner Controlled Substance,CS62156,Active,6/23/2021,3/31/2022
+THEA,L,LARA,Certified Pharmacy Technician,CT1192,Expired,3/18/2010,6/30/2017
+THEA,L,LARA,Pharmacy Technician,T5886,Cancelled,7/25/2008,3/17/2010
+JAN,D,LARCOM,Practitioner Controlled Substance,CS82,Cancelled,12/31/1998,5/27/2004
+SANDRA,BERNICE,LARE,Practitioner Controlled Substance,CS47228,Active,1/22/2018,11/30/2021
+JOHNNY,F,LARES,Pharmacy Technician,T6254,Cancelled,3/20/2009,7/1/2009
+LARSA,V,LARGE,Pharmacist,P4302,Active,5/24/2002,5/31/2022
+LARSA,V,LARGE,Practitioner Controlled Substance,CS2672,Expired,12/31/1998,12/31/2006
+JEFF,THEODORE,LARIDIS,Certified Pharmacy Technician,CT43677,Expired,11/23/2016,8/31/2020
+JEFF,THEODORE,LARIDIS,Pharmacy Technician in Training,TT34594,Expired,2/18/2014,6/30/2016
+Shaye,,Larie,Practitioner Controlled Substance,CS53599,Expired,5/17/2019,11/30/2019
+ROBIN,,LARIVE,Practitioner Controlled Substance,CS15141,Expired,12/3/2010,12/31/2011
+KRISTOFER,KELLY-JAMES,LARK,Pharmacist,P7518,Active,6/8/2016,2/28/2022
+KRISTOFER,KELLY-JAMES,LARK,Certified Pharmacy Technician,CT17599,Cancelled,1/1/2001,1/1/2001
+KRISTOFER,KELLY-JAMES,LARK,Pharmacy Technician in Training,TT15133,Cancelled,12/2/2010,11/14/2011
+KRISTOFER,KELLY-JAMES,LARK,Intern - Student,E18768,Cancelled,5/15/2012,6/2/2016
+THOMAS,L,LARK,Practitioner Controlled Substance,CS6719,Active,12/31/1998,1/31/2022
+BRIAN,JAMES,LARKIN,Practitioner Controlled Substance,CS42484,Expired,7/8/2016,12/31/2017
+JACE,COLY,LARKIN,Pharmacist,P7126,Expired,8/19/2014,6/30/2019
+KRISTEN,MICHELLE,LARKIN,Practitioner Controlled Substance,CS47072,Active,12/28/2017,9/30/2021
+MICHAEL,,LARKIN,Intern - Student,EI5865,Cancelled,,
+WILLIAM,A,LARKIN,Practitioner Controlled Substance,CS3593,Active,12/31/1998,5/31/2022
+ALEXIS,CHRISTINE,LAROSE,Practitioner Controlled Substance,CS19971,Active,10/4/2012,1/31/2022
+Jennifer,Lynn,LaRose,Pharmacy Technician,T61458,Active,4/6/2021,4/30/2022
+ANGELENE,,LARSEN,Certified Pharmacy Technician,CT36391,Expired,7/29/2014,6/30/2017
+ANGELENE,,LARSEN,Pharmacy Technician,T1472,Cancelled,10/4/2002,7/1/2008
+ANGELENE,,LARSEN,Pharmacy Technician in Training,TT16187,Expired,5/25/2011,6/30/2014
+Brandon,Leon,Larsen,Practitioner Controlled Substance,CS60240,Active,1/15/2021,6/30/2022
+BRENNEN,S,LARSEN,Practitioner Controlled Substance,CS43927,Active,12/19/2016,11/30/2021
+BRYCE,,LARSEN,Practitioner Controlled Substance,CS11088,Active,7/14/2005,2/28/2022
+CANDI,SUE,LARSEN,Pharmacy Technician,T6432,Cancelled,6/24/2009,7/1/2010
+CHASE,M,LARSEN,Practitioner Controlled Substance,CS36554,Expired,8/13/2014,12/31/2015
+CHRISTIAN,P,LARSEN,Intern - Student,E3882,Expired,9/2/2009,7/15/2013
+Dalynda,,Larsen,Pharmacy Technician,T62590,Active,7/7/2021,7/31/2022
+DAVID,JOSEPH,LARSEN,Practitioner Controlled Substance,CS44921,Active,4/20/2017,12/31/2021
+DENISE,M,LARSEN,Pharmacy Technician,T3852,Expired,3/25/2005,6/30/2008
+DORIAN,L,LARSEN,Practitioner Controlled Substance,CS35390,Active,5/7/2014,6/30/2022
+DORIAN,L,LARSEN,Practitioner Controlled Substance,CS9203,Expired - Fee Exempt,9/4/2001,12/31/2018
+DUSTIN,,LARSEN,Practitioner Controlled Substance,CS45746,Active,7/6/2017,7/31/2022
+HANS,TYLER,LARSEN,Practitioner Controlled Substance,CS38777,Active,5/29/2015,3/31/2022
+IAN,D,LARSEN,Certified Pharmacy Technician,CT19002,Active - Fee Exempt,6/7/2012,3/31/2022
+IAN,D,LARSEN,Pharmacy Technician in Training,TT15147,Expired,12/3/2010,12/3/2011
+IRENE,,LARSEN,Pharmacy Technician,T2347,Expired,9/18/2001,6/30/2002
+IVAN,M,LARSEN,Practitioner Controlled Substance,CS43541,Expired,11/30/2016,12/31/2017
+JACOB,CURTIS,LARSEN,Practitioner Controlled Substance,CS40337,Active,10/9/2015,1/31/2022
+JAMES,J,LARSEN,Practitioner Controlled Substance,CS5464,Cancelled,12/31/1997,12/31/1998
+Janell,Marie,Larsen,Pharmacy Technician,T59498,Active,10/5/2020,10/31/2021
+JESSICA,HELENE,LARSEN,Pharmacy Technician,T4118,Cancelled,9/30/2005,7/1/2007
+KAREN,K,LARSEN,Pharmacy Technician,T3518,Cancelled,8/3/2004,7/1/2008
+Kristin,Michelle,Larsen,Pharmacy Technician,T61828,Active,4/30/2021,10/31/2021
+L ROYCE,,LARSEN,Practitioner Controlled Substance,CS44873,Expired,4/13/2017,12/31/2017
+LEANNE,LOUISE,LARSEN,Certified Pharmacy Technician,CT37067,Active,10/16/2014,2/28/2022
+LEANNE,LOUISE,LARSEN,Pharmacy Technician,T5076,Cancelled,5/22/2007,10/16/2014
+LINDA,MAUREEN,LARSEN,Pharmacy Technician,T2137,Cancelled,4/5/2001,7/1/2010
+MATTHEW,FORD,LARSEN,Practitioner Controlled Substance,CS38243,Active,4/14/2015,3/31/2022
+MATTHEW,J,LARSEN,Practitioner Controlled Substance,CS13473,Active,7/1/2009,12/31/2021
+MEAGHAN,,LARSEN,Certified Pharmacy Technician,CT19030,Expired,6/7/2012,6/30/2013
+MEAGHAN,,LARSEN,Pharmacy Technician in Training,TT14774,Expired,10/4/2010,10/3/2011
+MELISSA,ANN,LARSEN,Pharmacy Technician,T2618,Expired,7/15/2002,6/30/2003
+MICHAEL,ANDREW,LARSEN,Practitioner Controlled Substance,CS11702,Active,8/7/2006,10/31/2021
+MICHAEL,LAGRANDE,LARSEN,Practitioner Controlled Substance,CS21531,Active,6/6/2013,3/31/2022
+MICHELLE,LEE,LARSEN,Certified Pharmacy Technician,CT54880,Active,8/2/2019,11/30/2021
+MICHELLE,LEE,LARSEN,Pharmacy Technician in Training,TT41250,Superceded,2/18/2016,6/17/2017
+MICHELLE,LEE,LARSEN,Pharmacy Technician in Training,TT48570,Superceded,2/18/2016,6/30/2019
+MURRAY,IVAN,LARSEN,Practitioner Controlled Substance,CS41286,Active,2/25/2016,7/31/2022
+MURRAY,IVAN,LARSEN,Practitioner Controlled Substance,CS5252,Expired,12/31/1998,12/31/2014
+N W BILL,,LARSEN,Practitioner Controlled Substance,CS2124,Expired,12/31/1998,12/31/2017
+Ranel,Ashley,Larsen,Pharmacist,P9538,Active,8/5/2021,7/31/2022
+RONALD,M,LARSEN,Practitioner Controlled Substance,CS13134,Expired,10/31/2008,12/31/2013
+RYAN,H,LARSEN,Practitioner Controlled Substance,CS12769,Expired,6/6/2008,7/31/2021
+STANLEY,R,LARSEN,Practitioner Controlled Substance,CS982,Cancelled,12/31/1998,12/31/2001
+STEVEN,A,LARSEN,Practitioner Controlled Substance,CS12151,Active,6/1/2007,1/31/2022
+STEVEN,A,LARSEN,Practitioner Controlled Substance,CS12151LT,Expired,6/1/2007,7/30/2007
+STEVEN,JAY,LARSEN,Practitioner Controlled Substance,CS2038,Cancelled,12/31/1998,9/24/2009
+TUCKER,LLOYD,LARSEN,Practitioner Controlled Substance,CS43829,Active - Fee Exempt,12/9/2016,11/30/2021
+AMY,L,LARSON,Practitioner Controlled Substance,CS37876,Active,2/25/2015,3/31/2022
+ANDREA,LYN,LARSON,Pharmacist,P5901,Active,5/26/2005,6/30/2022
+ANDREA,LYN,LARSON,Intern - Student,EI2876,Cancelled,6/12/2001,5/26/2005
+ANDREW,M,LARSON,Practitioner Controlled Substance,CS14753,Active,9/29/2010,12/31/2021
+BONNIE,RAE,LARSON,Pharmacy Technician in Training,TT17927,Expired,1/12/2012,6/30/2013
+BOYD,E,LARSON,Practitioner Controlled Substance,CS11742,Cancelled,8/22/2006,9/2/2010
+BRAD,J,LARSON,Practitioner Controlled Substance,CS13389,Expired,6/3/2009,8/31/2019
+BRAD,J,LARSON,Practitioner Controlled Substance,CS60684,Active,4/30/2021,8/31/2022
+BRANDY,LEE,LARSON,Pharmacy Technician,T5433,Cancelled,10/10/2007,7/1/2011
+BRANDY,LEE,LARSON,Practitioner Controlled Substance,CS52182,Active,1/18/2019,7/31/2022
+BRANDY,MAE,LARSON,Certified Pharmacy Technician,CT54310,Active,6/26/2019,2/28/2022
+BRANDY,MAE,LARSON,Pharmacy Technician,T5726,Superceded,4/16/2008,6/30/2019
+CARL,,LARSON,Practitioner Controlled Substance,CS36641,Active,8/25/2014,11/30/2021
+CAROLINE,M,LARSON,Practitioner Controlled Substance,CS50148,Expired,7/26/2018,5/31/2020
+CHARLES,BLAISE,LARSON,Practitioner Controlled Substance,CS41465,Active,3/25/2016,8/31/2022
+CHRISTOPHER,DAVID DAVIS,LARSON,Practitioner Controlled Substance,CS45155,Active,5/18/2017,7/31/2022
+Crystal,Ann,Larson,Practitioner Controlled Substance,CS57524,Active,4/20/2020,6/30/2022
+DALE,L,LARSON,Practitioner Controlled Substance,CS7129,Cancelled,12/31/1998,12/31/1999
+DARREL,PAULUS,LARSON,Practitioner Controlled Substance,CS42654,Active,7/21/2016,5/31/2022
+DONALD,E,LARSON,Practitioner Controlled Substance,CS9245,Active,10/15/2001,1/31/2022
+Elliot,,Larson,Practitioner Controlled Substance,CS50907,Expired,9/21/2018,3/31/2019
+GARY,R,LARSON,Pharmacist,P4291,Expired,5/30/2002,6/30/2020
+JEFFREY,D,LARSON,Practitioner Controlled Substance,CS9694,Active,6/28/2017,6/30/2022
+JEFFREY,JOHN,LARSON,Practitioner Controlled Substance,CS10113,Active,7/17/2003,4/30/2022
+JOHN,R,LARSON,Practitioner Controlled Substance,CS9513,Expired,6/10/2002,12/31/2007
+Jonathan,Riley,Larson,Certified Pharmacy Technician,CT59319,Active,9/18/2020,9/30/2022
+KYLE,REID,LARSON,Pharmacy Technician in Training,TT44444,Expired,2/16/2017,6/30/2017
+LANCE,BRYAN,LARSON,Pharmacy Technician,T3486,Cancelled,7/8/2004,7/1/2009
+LARRY,A,LARSON,Pharmacist,P3981,Expired,6/4/2002,10/31/2020
+MARILYN,C,LARSON,Pharmacy Technician,T1197,Expired,5/23/2002,6/30/2015
+MATTHEW,R,LARSON,Practitioner Controlled Substance,CS14508,Expired,8/11/2010,12/31/2011
+McKenzie,Lynne,Larson,Pharmacy Technician,T62477,Active,6/29/2021,8/31/2022
+McKenzie,Lynne,Larson,Pharmacy Technician,TT51494,Expired,11/15/2018,11/15/2020
+MEGAN,DORINE,LARSON,Practitioner Controlled Substance,CS44675,Active,3/16/2017,6/30/2022
+MICHAEL,J,LARSON,Practitioner Controlled Substance,CS4074,Active,12/31/1998,5/31/2022
+Michele,Marie,Larson,Practitioner Controlled Substance,CS60837,Active,3/12/2021,10/31/2021
+MOLLY,BETH,LARSON,Intern - Student,EI2767,Expired,5/16/2000,5/15/2001
+PATRICIA,ANN,LARSON,Pharmacy Technician,T1373,Cancelled,5/24/2002,7/1/2009
+PETER,C,LARSON,Practitioner Controlled Substance,CS44617,Active,3/9/2017,11/30/2021
+ROSE,TERESA,LARSON,Pharmacy Technician,T5376,Cancelled,9/11/2007,7/1/2009
+SALLEY,S,LARSON,Pharmacy Technician,T5549,Cancelled,12/28/2007,7/1/2009
+SHARON,B,LARSON,Pharmacy Technician,T5494,Cancelled,11/26/2007,7/1/2010
+STEVEN,P,LARSON,Practitioner Controlled Substance,CS6001,Active,12/31/1998,8/31/2021
+T J,,LARSON,Certified Pharmacy Technician,CT45244,Active,5/31/2017,6/30/2022
+T J,,LARSON,Pharmacy Technician in Training,TT35832,Cancelled,6/19/2014,5/30/2017
+Zachary,Alex,Larson,Intern - Student,I54650,Active,7/18/2019,7/15/2022
+ERIKA,L,LARSONBERG,Practitioner Controlled Substance,CS42782,Expired,8/5/2016,12/31/2016
+JAMES,L,LARUE,Practitioner Controlled Substance,CS5641,Active,12/31/1998,11/30/2021
+JULIE,,LARUE,Pharmacist,P4806,Expired,6/28/1993,6/29/1993
+MARY JANE,,LARUE-FORMAN,Practitioner Controlled Substance,CS7911,Expired,12/31/1998,12/31/1999
+Brian,Kerry,LaSalle,Practitioner Controlled Substance,CS59304,Active,10/2/2020,1/31/2022
+Kali,Jean,Lasater,Pharmacy Technician,T2007,Expired,11/20/2000,6/30/2001
+Mary,Elizabeth,Lasater,Pharmacy Technician,T61354,Active,3/26/2021,4/30/2022
+LAYNE,ELLEN,LASH,Practitioner Controlled Substance,CS36716,Cancelled,9/3/2014,11/4/2015
+Heather,Evelyn,Lasher,Certified Pharmacy Technician,CT56281,Active,11/25/2019,7/31/2022
+Jennifer,Nicole,Lashinsky,Pharmacist,P9109,Active,10/9/2020,6/30/2022
+CHELSEY,DAWN,LASKEY,Pharmacy Technician,T5600,Expired,1/29/2008,6/30/2009
+JOSEPH,J,LASKEY,Pharmacy Technician,T4900,Expired,2/6/2007,6/30/2007
+JOSHUA,PHELAN,LASKEY,Pharmacy Technician,T5368,Expired,9/6/2007,6/30/2008
+BARRY,J,LASKO,Practitioner Controlled Substance,CS45062,Expired,5/4/2017,12/31/2018
+Bari,J,Laskow,Practitioner Controlled Substance,CS58301,Active,6/19/2020,2/28/2022
+Lizl,Maureen,Lasky,Practitioner Controlled Substance,CS58006,Active,5/15/2020,6/30/2022
+Caden,Gene,Lasley,Pharmacy Technician,TT51497,Expired,11/15/2018,11/15/2020
+EGAN,C,LASLEY,Pharmacy Technician,T4924,Cancelled,2/21/2007,7/1/2012
+Micah,John,Lasley,Practitioner Controlled Substance,CS61700,Active,4/22/2021,8/31/2022
+ERWIN,M,LASS,Pharmacist,P4158,Active,5/15/2002,12/31/2021
+MATTHEW,GORDON,LASSEN,Practitioner Controlled Substance,CS37768,Active,2/6/2015,9/30/2021
+RICHARD,J,LASSERE,Practitioner Controlled Substance,CS6640,Expired,12/31/1998,12/31/2016
+JOHN,EDWARD,LASSETTER,Practitioner Controlled Substance,CS11793,Expired,9/21/2006,12/31/2008
+JOHN,EDWARD,LASSETTER,Practitioner Controlled Substance,CS19184,Active,6/22/2012,12/31/2021
+MATTHEW,E,LASSFOLK,Pharmacist,P4331,Active,7/8/2002,5/31/2022
+Donna,Marie,Lassila,Pharmacy Technician,T2184,Expired,6/11/2001,6/30/2001
+Alex,Gregory,Last,Certified Pharmacy Technician,CT51874,Expired,12/26/2018,4/30/2021
+LAURA,J,LATA,Practitioner Controlled Substance,CS36235,Active,7/16/2014,6/30/2022
+JACK,T,LATER,Pharmacy Technician,T4210,Expired,12/27/2005,6/30/2006
+KIMBERLY,E,LATHAM,Pharmacist,P5355,Expired,7/2/2002,6/30/2015
+KIMBERLY,E,LATHAM,Intern - Student,EI2401,Cancelled,4/7/1999,4/7/1999
+KIMBERLY,E,LATHAM,Practitioner Controlled Substance,CS7500,Expired,12/31/1998,12/31/2004
+KYLE,J,LATHAM,Pharmacy Technician in Training,TT14057,Expired,6/3/2010,6/2/2011
+RICKY,DWAYNE,LATHAM,Practitioner Controlled Substance,CS46880,Active,11/30/2017,5/31/2022
+RICKY,DWAYNE,LATHAM,Practitioner Controlled Substance,CS6533,Expired,12/31/1998,12/31/2007
+DONALD,D,LATHROP,Practitioner Controlled Substance,CS3301,Cancelled,1/22/1997,6/30/1997
+James,Phillip,Lathrop,Practitioner Controlled Substance,CS50260,Active,8/1/2018,2/28/2022
+RYAN,A,LATHROP,Intern - Student,EI2614,Expired,5/15/1998,5/15/1999
+KIRK,,LATIBEAUDIERE,Pharmacist,P6858,Expired,7/18/2013,2/28/2021
+,,,Non-Resident PIC,PR54241,Cancelled by Entity,6/24/2019,2/29/2020
+JOANN,KIMBERLY,LATIMER,Certified Pharmacy Technician,CT39673,Active,7/27/2015,11/30/2021
+JOANN,KIMBERLY,LATIMER,Pharmacy Technician,T4844,Cancelled,1/8/2007,7/27/2015
+SIERRA,MARIE,LATIMER,Pharmacy Technician in Training,TT40143,Expired,9/16/2015,6/30/2016
+REYNA,MARIE,LATIMORE,Certified Pharmacy Technician,CT58236,Active,6/3/2020,10/31/2021
+REYNA,MARIE,LATIMORE,Pharmacy Technician,TT50445,Superceded,8/16/2018,8/16/2020
+REYNA,MARIE,LATIMORE,Pharmacy Technician in Training,,Superceded,,6/14/2017
+FRANK,A,LATINO,Pharmacist,P4988,Expired,7/2/2002,6/30/2009
+Trinity,Ann,Latscha,Pharmacy Technician,TT56106,Expired,11/8/2019,2/28/2021
+LISA,ELLEN,LATSHAW,Practitioner Controlled Substance,CS10349,Active,1/23/2004,3/31/2022
+WILLIAM,N,LATSHAW,Practitioner Controlled Substance,CS1648,Expired,12/31/1998,12/31/2014
+ANGELA,MARIE,LATTA,Practitioner Controlled Substance,CS21471,Active,5/23/2013,6/30/2022
+GEORGE,HAWORTH,LATTA,Practitioner Controlled Substance,CS11512,Expired,6/2/2006,12/31/2007
+GEORGE,HAWORTH,LATTA,Practitioner Controlled Substance,CS47964,Expired,4/19/2018,9/30/2019
+Katie,Christine,Lattimer,Pharmacy Technician,TT57152,Active,2/5/2020,5/31/2022
+GARY,J,LATTIMORE,Practitioner Controlled Substance,CS9394,Active,2/26/2002,7/31/2022
+John,ERIC,Lattin,Practitioner Controlled Substance,CS58923,Active,8/21/2020,10/31/2021
+ALEX,W,LAU,Pharmacy Technician,T6196,Cancelled,2/5/2009,7/1/2009
+BRADLEY,JACK,LAU,Practitioner Controlled Substance,CS44922,Active,4/20/2017,4/30/2022
+Chiu,S,Lau,Pharmacist,P8313,Expired,4/3/2019,6/30/2020
+Glen,Alexander,Lau,Practitioner Controlled Substance,CS54100,Active - Fee Exempt,6/17/2019,4/30/2022
+KIM TING,,LAU,Intern - Student,EI986,Cancelled,,1/1/1900
+Maggie,Wing Lam,Lau,Pharmacist,P8629,Active,11/15/2019,10/31/2021
+Raymond,Yupeng,Lau,Pharmacist,P9365,Active,6/15/2021,5/31/2022
+,,,Non-Resident PIC,PR62308,Active,6/15/2021,5/31/2022
+SEE YAN,,LAU,Pharmacist,P6499,Active,3/12/2009,9/30/2021
+MICHELLE,ROXANN,LAUBER,Certified Pharmacy Technician,CT47940,Active,4/18/2018,8/31/2022
+VICTORIJA,DALIA,LAUCIUS,Practitioner Controlled Substance,CS6478,Active,12/31/1998,4/30/2022
+CECILIA,M,LAUDER,Practitioner Controlled Substance,CS11253,Expired,10/5/2005,12/31/2007
+NICHOLAS,BLAINE,LAUDERDALE,Pharmacy Technician,TT47554,Expired,3/6/2018,6/30/2020
+DONALD,J,LAUER,Practitioner Controlled Substance,CS8631,Expired,8/11/2000,12/31/2001
+TRACY,ANN,LAUF,Pharmacy Technician,T2826,Expired,12/24/2002,6/30/2005
+ANGELA,KAY,LAUGHLIN,Pharmacy Technician,T1340,Expired,5/30/2002,6/30/2006
+Austin,David,Laughlin,Pharmacy Technician,TT56114,Expired,11/8/2019,4/30/2021
+DONNA,IRENE,LAUGHLIN,Pharmacy Technician,T1393,Expired,5/21/2002,6/30/2014
+KATHERINE,,LAUGHLIN,Pharmacist,P5962,Expired,9/23/2005,6/30/2012
+PATRICK,A,LAUGHLIN,Practitioner Controlled Substance,CS7073,Expired,12/31/1998,12/31/2004
+JODI,MARGARET,LAUGHRIDGE,Pharmacist,P7494,Active,4/25/2016,10/31/2021
+LANCE,CARL,LAUGHRIDGE,Pharmacist,P7435,Active,1/13/2016,9/30/2021
+ADONIRAM,DAVIAN,LAUREANO,Pharmacist,P7572,Expired,7/13/2016,6/30/2018
+LYNN,A,LAUREL,Pharmacy Technician in Training,TT20472,Expired,1/2/2013,6/30/2013
+ASHLEY,,LAURENCE,Pharmacist,P7395,Active,11/2/2015,8/31/2022
+ASHLEY,,LAURENCE,Pharmacy Technician,T6458,Cancelled,6/30/2009,6/1/2011
+ASHLEY,,LAURENCE,Intern - Student,E16225,Cancelled,6/2/2011,6/1/2015
+JAMES,A,LAURINO,Practitioner Controlled Substance,CS20530,Expired,12/31/1998,12/31/2013
+JAMES,A,LAURINO,Practitioner Controlled Substance,CS6620,Expired,12/31/1998,12/31/1999
+JAMES,A,LAURINO,Practitioner Controlled Substance,CS6620LT,Expired,12/31/1998,12/31/2002
+ANGELA,MARIA,LAURITZEN,Certified Pharmacy Technician,CT37257,Active,11/10/2014,3/31/2022
+ANGELA,MARIA,LAURITZEN,Pharmacy Technician in Training,TT33967,Cancelled,11/22/2013,11/10/2014
+JOHN,G,LAUVE,Non-Resident Pharmacist,PR34421,Expired,1/24/2014,6/30/2016
+Mallory,elizabeth,lauzon,Pharmacy Technician,T60987,Active,2/22/2021,10/31/2021
+Dean,Nathan,Lavallee,Practitioner Controlled Substance,CS56966,Active,1/24/2020,8/31/2021
+JOHN,N,LAVALLEE,Practitioner Controlled Substance,CS6221,Cancelled,12/31/1996,12/31/1997
+JOHN,N,LAVALLEE,Practitioner Controlled Substance,CS6221LT,Expired,12/31/1996,7/27/2004
+SARI,BIANCA,LAVARIAS,Practitioner Controlled Substance,CS20427,Active,12/21/2012,1/31/2022
+MICHAEL,TIMOTHY,LAVENS,Practitioner Controlled Substance,CS10036,Cancelled,6/17/2003,8/31/2005
+CHEYENNE,,LAVERDURE,Pharmacy Technician in Training,TT40958,Cancelled,1/19/2016,3/29/2016
+BRIGITTA,S,LAVERGNE,Practitioner Controlled Substance,CS13088,Active,10/7/2008,10/31/2021
+STEPHANIE,M,LAVERGNE,Practitioner Controlled Substance,CS36623,Expired,8/21/2014,12/31/2015
+Luz,Elena,Lavezo,Pharmacist,P9066,Active,9/10/2020,5/31/2022
+DALE,B,LAVIGNE,Pharmacist,IP2673,Expired,6/29/2012,6/30/2013
+DALE,B,LAVIGNE,Pharmacist,P2673,Expired,6/19/2002,6/30/2012
+RONALD,D,LAVIGNE,Pharmacist,P4138,Active,6/19/2002,8/31/2021
+CHANDLER,SABRINA,LAVOY,Pharmacy Technician in Training,TT38391,Cancelled,4/28/2015,5/4/2015
+CHANDLER,SABRINA,LAVOY,Pharmacy Technician in Training,TT38471,Expired,4/28/2015,6/30/2016
+ERIC,,LAVY,Practitioner Controlled Substance,CS14213,Expired,6/23/2010,12/31/2017
+LOUISA,,LAVY,Practitioner Controlled Substance,CS14212,Expired,6/23/2010,12/31/2017
+CIARA,,LAW,Pharmacy Technician in Training,TT17561,Expired,11/8/2011,6/30/2013
+JAMIE,RENEE,LAW,Pharmacy Technician,T59625,Active,10/15/2020,7/31/2022
+JAMIE,RENEE,LAW,Pharmacy Technician in Training,TT39043,Expired,6/17/2015,6/30/2018
+LISA,Y,LAW,Practitioner Controlled Substance,CS11933,Expired,12/20/2006,12/31/2011
+Randall,James,Law,Practitioner Controlled Substance,CS56616,Expired,12/20/2019,10/31/2020
+Randall,James,Law,Practitioner Controlled Substance,CS62179,Active,7/12/2021,10/31/2021
+SHAYLYNN,MARIE,LAW,Pharmacy Technician in Training,TT45656,Cancelled,6/27/2017,4/23/2018
+MANDY,MARIE,LAWES,Pharmacy Technician,T5727,Expired,4/16/2008,6/30/2013
+DAVID,WOOD,LAWHORN,Practitioner Controlled Substance,CS35896,Active,6/23/2014,12/31/2021
+CHRISTOPHER,,LAWLER,Practitioner Controlled Substance,CS10675,Active,8/23/2004,6/30/2022
+HELEN,,LAWLER,Practitioner Controlled Substance,CS36561,Active,8/13/2014,3/31/2022
+MONICA,THERESE,LAWLER,Practitioner Controlled Substance,CS46246,Active,8/31/2017,9/30/2021
+CHARLES,D,LAWLESS,Pharmacist,P5382,Active,5/20/2002,3/31/2022
+CHARLES,P,LAWLESS,Practitioner Controlled Substance,CS1066,Active,12/31/1998,8/31/2021
+CHUCK,D,LAWLESS,Intern - Student,EI2374,Cancelled,4/7/1999,4/7/1999
+DAVID,MARC,LAWLESS,Pharmacist,P5530,Active,8/18/2000,5/31/2022
+,,,Non-Resident PIC,PR41150,Expired,2/8/2016,6/30/2019
+GRACE,ANNE,LAWRENCE,Pharmacist,P5050,Active,10/17/1994,12/31/2021
+James,Alan,Lawrence,Student Pharmacy Technician,ST60581,Active,1/20/2021,7/15/2022
+jaxlyn,jennifer,lawrence,Pharmacy Technician,TT56896,Active,1/15/2020,7/31/2022
+JESSICA,NICOLE,LAWRENCE,Pharmacy Technician,T4803,Cancelled,12/15/2006,7/1/2007
+JONATHAN,ROBIN,LAWRENCE,Practitioner Controlled Substance,CS37968,Active,3/6/2015,8/31/2022
+LISA,,LAWRENCE,Practitioner Controlled Substance,CS8673,Active,9/7/2000,8/31/2022
+SARA,M,LAWRENCE,Practitioner Controlled Substance,CS8741,Active,10/16/2000,8/31/2022
+SHELBY,ANN,LAWRENCE,Pharmacy Technician,TT47242,Expired,1/22/2018,6/30/2020
+STEWART,,LAWRENCE,Practitioner Controlled Substance,CS5161,Active,12/31/1998,11/30/2021
+THOMAS,L,LAWRENCE,Practitioner Controlled Substance,CS2011,Active,12/31/1998,9/30/2022
+BRETT,JEFFREY,LAWSON,Intern - Student,E21487,Cancelled,5/25/2013,6/6/2016
+CAMILLA,RAE,LAWSON,Pharmacy Technician,T3286,Cancelled,2/2/2004,7/1/2009
+Carrie,,Lawson,Pharmacy Technician,TT56123,Active,11/8/2019,10/31/2021
+KATHERINE,L,LAWSON,Pharmacy Technician,T1183,Expired,5/31/2002,6/30/2003
+KRISTINE,L,LAWSON,Pharmacy Technician in Training,TT15170,Expired,12/9/2010,12/8/2011
+LAWRENCE,DANIEL,LAWSON,Practitioner Controlled Substance,CS38089,Active,3/20/2015,6/30/2022
+Mark,Alexander,Lawson,Pharmacist,P9391,Active,6/23/2021,4/30/2022
+NEISHA,L,LAWSON,Certified Pharmacy Technician,CT1161,Expired,3/15/2010,6/30/2018
+NEISHA,L,LAWSON,Pharmacy Technician,T3301,Cancelled,2/12/2004,3/14/2010
+T COLLEEN,,LAWSON,Practitioner Controlled Substance,CS4424,Expired,12/31/1998,12/31/2004
+ERICK,J,LAWTON,Pharmacist,P6469,Active,11/8/2010,9/30/2021
+ERICK,J,LAWTON,Pharmacy Technician,T4149,Cancelled,10/27/2005,7/1/2006
+ERICK,J,LAWTON,Intern - Student,EI3496,Expired,11/2/2006,7/15/2010
+Kari,Ann,Lawton,Certified Pharmacy Technician,CT61776,Active,4/27/2021,6/30/2022
+Kari,Ann,Lawton,Pharmacy Technician,T60044,Superceded,11/24/2020,6/30/2021
+JAMES,T,LAWYER,Practitioner Controlled Substance,CS6369,Expired,1/1/2000,12/31/2003
+James,Todd,Lawyer,Practitioner Controlled Substance,CS53365,Cancelled by Entity,4/26/2019,11/30/2020
+JILL,,LAWYER,Pharmacy Technician in Training,TT37315,Expired,11/19/2014,6/30/2015
+TRACYE,JEAN MARIE,LAWYER,Practitioner Controlled Substance,CS48424,Active,6/14/2018,8/31/2022
+David,Douglas,Laxson,Practitioner Controlled Substance,CS60784,Active,3/5/2021,11/30/2021
+Christopher,Carr,Lay,Pharmacy Technician,T1893,Expired,8/22/2000,6/30/2002
+MEGHAN,ERIN,LAY,Pharmacy Technician,T4533,Expired,8/14/2006,6/30/2008
+SUSAN,JEAN,LAYEUX,Practitioner Controlled Substance,CS35900,Active,6/23/2014,2/28/2022
+HEATHER,ASHLEY,LAYHER,Practitioner Controlled Substance,CS62242,Active,7/14/2021,5/31/2022
+Joshua,Allan,Layher,Practitioner Controlled Substance,CS62435,Active,7/19/2021,9/30/2021
+HOWARD,A,LAYMAN,Practitioner Controlled Substance,CS13068,Cancelled,9/25/2008,12/21/2012
+JARED,A,LAYMAN,Intern - Student,E3897,Expired,9/14/2009,7/15/2013
+RACHEL,WYNNE,LAYMAN,Pharmacy Technician,T2217,Expired,6/28/2002,6/30/2004
+Juanita,,Layne,Practitioner Controlled Substance,CS50370,Active,8/13/2018,7/31/2022
+BOYD,RHYS,LAYTON,Practitioner Controlled Substance,CS43425,Active,10/21/2016,12/31/2021
+CORY,H,LAYTON,Practitioner Controlled Substance,CS48087,Active,5/3/2018,11/30/2021
+MICHELLE,R,LAYTON,Pharmacy Technician,T4239,Expired,1/23/2006,6/30/2006
+SUZANNE,,LAYTON,Pharmacy Technician,T6166,Active,1/15/2009,1/31/2022
+ARWEN,E,LAZ,Pharmacy Technician,T6376,Expired,6/10/2009,6/30/2011
+HARRY,A,LAZARTE,Practitioner Controlled Substance,CS14648,Active,8/31/2010,9/30/2021
+RAMI,J,LAZEKI,Non-Resident Pharmacist,PR39882,Expired,8/13/2015,6/30/2018
+BILLY,G,LAZELLE,Pharmacist,P2956,Expired,6/30/1998,6/30/1999
+BILLY,G,LAZELLE,Practitioner Controlled Substance,CS072,Expired,12/31/1998,12/31/1999
+NICHOLAS,A,LAZZARO,Practitioner Controlled Substance,CS14101,Active,6/9/2010,10/31/2021
+SHAWNA,LATREAS,LE GORE,Pharmacy Technician,T3322,Expired,3/8/2004,6/30/2005
+An,,Le,Pharmacist,P9183,Active,12/15/2020,12/31/2021
+Andrew,Thanh Quang,Le,Pharmacist,P8893,Active,7/6/2020,7/31/2022
+Anh Dao,Vo,Le,Pharmacist,P8145,Active,8/30/2018,5/31/2022
+CATHERINE,HONG-DUC,LE,Intern - Student,EI3072,Expired,7/11/2003,7/15/2007
+HIEN,VINH,LE,Non-Resident Pharmacist,PR38045,Cancelled,3/17/2015,6/30/2016
+HOLLY,,LE,Intern - Student,EI5557,Cancelled,,1/1/1900
+HUU,TRUNG NGUYEN,LE,Pharmacy Technician,TT46975,Expired,12/13/2017,6/30/2020
+Kevin,,Le,Pharmacist,P9406,Active,6/29/2021,6/30/2022
+KHOA,DANG,LE,Intern - Student,E48243,Active,5/29/2018,7/15/2022
+KIMBERLY,NGAN,LE,Intern - Student,E47801,Expired,3/29/2018,7/15/2020
+KRISTOPHER,VAN,LE,Non-Resident Pharmacist,PR44325,Cancelled,2/3/2017,12/4/2017
+Nancy,,Le,Pharmacist,P8765,Active,3/16/2020,12/31/2021
+NGUYET,ANH,LE,Certified Pharmacy Technician,CT17657,Cancelled,1/1/2001,1/1/2001
+NGUYET,ANH,LE,Intern - Student,E18807,Expired,5/17/2012,7/15/2017
+NHU,THUY,LE,Intern - Student,E3877,Expired,9/1/2009,7/15/2013
+NU,THI,LE,Pharmacist,P7816,Active,8/22/2017,11/30/2021
+,,,Non-Resident PIC,PR53609,Active,5/13/2019,11/30/2021
+TAM,,LE,Intern - Student,E14251,Expired,6/28/2010,7/15/2013
+Tin,,Le,Pharmacist,P8757,Expired,3/4/2020,6/30/2021
+Tina,,Le,Practitioner Controlled Substance,CS15003,Expired,11/5/2010,12/31/2011
+Tina,,Le,Practitioner Controlled Substance,CS60906,Active,3/29/2021,5/31/2022
+TRAM,,LE,Pharmacist,P8564,Active,10/4/2019,2/28/2022
+TRUNG,,LE,Pharmacy Technician,T6249,Cancelled,3/20/2009,7/1/2009
+Vivian,,Le,Pharmacist,P9544,Active,8/9/2021,4/30/2022
+,,,Non-Resident PIC,PR42758,Active,8/2/2016,5/31/2022
+JAMES,,LEA,Practitioner Controlled Substance,CS3352,Expired,12/31/1998,12/31/2014
+ANDRE,LYNN,LEACH,Certified Pharmacy Technician,CT45584,Active,6/22/2017,10/31/2021
+ANDRE,LYNN,LEACH,Pharmacy Technician,T2290,Cancelled,8/17/2001,6/23/2017
+Caleb,M,Leach,Pharmacy Technician,T58868,Active,8/4/2020,10/31/2021
+DAVID,BRYAN,LEACH,Practitioner Controlled Substance,CS40279,Expired,10/2/2015,12/31/2017
+DAVID,BRYAN,LEACH,Practitioner Controlled Substance,CS8624,Active,8/7/2000,10/31/2021
+JARED,D,LEACH,Pharmacy Technician,T5822,Cancelled,6/25/2008,7/1/2009
+JORDAN,MARIE,LEACH,Pharmacist,P8374,Active,6/6/2019,1/31/2022
+JORDAN,MARIE,LEACH,Certified Pharmacy Technician,CT22273,Superceded,8/21/2013,6/30/2015
+JORDAN,MARIE,LEACH,Pharmacy Technician in Training,TT17789,Superceded,12/13/2011,8/21/2013
+JORDAN,MARIE,LEACH,Intern - Graduate,I53923,Superceded,6/6/2019,6/6/2020
+ROBERT,JAMES,LEACH,Practitioner Controlled Substance,CS11171,Expired,9/1/2005,12/31/2007
+ROBERT,JAMES,LEACH,Practitioner Controlled Substance,CS13686,Expired,10/19/2009,12/31/2018
+STEPHANIE,A,LEACH,Pharmacy Technician,T6365,Expired,6/4/2009,6/30/2011
+VICTORIA,L,LEACH,Intern - Student,EI2301,Cancelled,4/7/1999,4/7/1999
+VICTORIA,LYNN,LEACH,Certified Pharmacy Technician,CT40899,Active,1/11/2016,12/31/2021
+Brittany,Diane,Leaf,Intern - Student,I52909,Expired,3/20/2019,7/15/2020
+,,,Non-Resident PIC,PR57808,Expired,4/8/2020,11/30/2020
+,,,Non-Resident PIC,PR62867,Active,7/26/2021,11/30/2021
+WANUZA,DE RIBEIRO,LEAL-WALLACE,Certified Pharmacy Technician,CT54298,Active,6/25/2019,5/31/2022
+WANUZA,DE RIBEIRO,LEAL-WALLACE,Pharmacy Technician in Training,TT47811,Superceded,3/29/2018,6/30/2020
+BRANDI,SHANNARHA,LEAMAN,Pharmacy Technician in Training,TT43444,Cancelled,10/26/2016,3/21/2017
+Kellie,Ann,Leaman,Practitioner Controlled Substance,CS60976,Active,4/30/2021,5/31/2022
+SAMANTHA,LYNN,LEAMING,Certified Pharmacy Technician,CT38422,Expired,4/29/2015,6/30/2016
+JACQUE,,LEANNA,Practitioner Controlled Substance,CS8298,Expired,1/7/2000,12/31/2012
+CRYSTAL,LAREE,LEAR,Certified Pharmacy Technician,CT1016,Active,7/29/2009,5/31/2022
+CRYSTAL,LAREE,LEAR,Pharmacy Technician,T1256,Cancelled,6/10/2002,7/29/2009
+JAN,H,LEARY,Pharmacy Technician,T1138,Active,5/24/2002,9/30/2021
+KAYLEE,L,LEATH,Pharmacy Technician in Training,TT6831,Expired,4/13/2010,4/12/2011
+Jadyn,Marie,Leatham,Certified Pharmacy Technician,CT57157,Active,2/5/2020,11/30/2021
+Jadyn,Marie,Leatham,Student Pharmacy Technician,ST52265,Superceded,1/24/2019,7/15/2019
+JORDAN,TERRY,LEATHAM,Pharmacy Technician in Training,TT19344,Expired,7/11/2012,6/30/2015
+CHARLENE,A,LEATHERMAN,Practitioner Controlled Substance,CS10638,Expired,8/3/2004,12/31/2005
+JOHN,TIMOTHY,LEAVELL,Practitioner Controlled Substance,CS8066,Active,1/1/2000,3/31/2022
+ALLEN,,LEAVITT,Pharmacist,P6867,Expired,8/1/2013,6/30/2015
+ALLEN,,LEAVITT,Pharmacist,P7674,Active,11/15/2016,5/31/2022
+ALLEN,,LEAVITT,Intern - Student,E3759,Expired,3/2/2009,7/15/2012
+ALLEN,,LEAVITT,Intern - Student,EI3174,Cancelled,6/18/2004,10/31/2006
+BRENT,ROGER,LEAVITT,Practitioner Controlled Substance,CS40510,Active,11/6/2015,4/30/2022
+CASEY,J,LEAVITT,Practitioner Controlled Substance,CS52813,Active,3/12/2019,9/30/2021
+CASEY,J,LEAVITT,Practitioner Controlled Substance,CS9620,Expired,7/31/2002,12/31/2018
+David,Marshall,Leavitt,Practitioner Controlled Substance,CS57824,Active,5/8/2020,11/30/2021
+ELISHA,JOY,LEAVITT,Certified Pharmacy Technician,CT19229,Active,6/28/2012,10/31/2021
+ELISHA,JOY,LEAVITT,Pharmacy Technician in Training,TT18607,Cancelled,4/23/2012,7/6/2012
+ERIC,B,LEAVITT,Practitioner Controlled Substance,CS9056,Expired,7/3/2001,12/31/2001
+ERIN,G,LEAVITT,Practitioner Controlled Substance,CS4501,Active,12/31/1998,2/28/2022
+GLENN,R,LEAVITT,Practitioner Controlled Substance,CS11051,Active,6/30/2005,3/31/2022
+GUY,G,LEAVITT,Practitioner Controlled Substance,CS13421,Expired,6/17/2009,12/31/2010
+Isabella,Maria,Leavitt,Student Pharmacy Technician,ST57422,Expired,3/3/2020,7/15/2020
+JOSH,,LEAVITT,Practitioner Controlled Substance,CS17957,Active,1/17/2012,3/31/2022
+Kabrina,Kay,Leavitt,Practitioner Controlled Substance,CS62748,Active,8/3/2021,8/31/2022
+MARINDA,KAYE,LEAVITT,Pharmacy Technician in Training,TT34183,Expired,12/19/2013,6/30/2015
+NATHAN,ERIN,LEAVITT,Practitioner Controlled Substance,CS42402,Active,6/30/2016,8/31/2021
+PHILIP,N,LEAVITT,Practitioner Controlled Substance,CS626,Cancelled,12/31/1998,12/31/2000
+SARAH,,LEAVITT,Intern - Student,E3785,Expired,5/20/2009,7/15/2013
+Shane,Colby,Leavitt,Practitioner Controlled Substance,CS60369,Active,1/29/2021,9/30/2022
+THOMAS,J,LEAVITT,Practitioner Controlled Substance,CS11066,Expired,7/8/2005,12/31/2010
+THOMAS,J,LEAVITT,Practitioner Controlled Substance,CS11066LT,Expired,7/8/2005,7/13/2005
+Wende,Christine,Leavitt,Practitioner Controlled Substance,CS59415,Active,10/23/2020,3/31/2022
+LISA,,LEAZENBY,Practitioner Controlled Substance,CS37901,Active,2/27/2015,1/31/2022
+DAWN,MARIE,LEBARON,Pharmacy Technician in Training,TT19029,Expired,6/7/2012,6/30/2014
+NATHAN,DANIEL,LEBARON,Pharmacy Technician,T4998,Cancelled,3/30/2007,7/1/2007
+TERESA,K,LEBERKNIGHT,Pharmacist,P5463,Surrendered,8/13/1999,6/30/2016
+TERESA,K,LEBERKNIGHT,Pharmacist,P8447,Active,7/16/2019,11/30/2021
+TERESA,K,LEBERKNIGHT,Intern - Student,EI2571,Expired,5/16/1999,5/15/2000
+TERESA,K,LEBERKNIGHT,Practitioner Controlled Substance,CS8115,Expired,12/31/1998,12/31/2005
+BRIAN,,LEBLANC,Certified Pharmacy Technician,CT16323,Expired,6/16/2011,6/30/2014
+CHRISTINA,S,LEBLANC,Certified Pharmacy Technician,CT38424,Expired,4/29/2015,6/30/2018
+CHRISTINA,S,LEBLANC,Pharmacy Technician,T6273,Cancelled,3/30/2009,4/29/2015
+CHRISTOPHER,L,LEBLANC,Pharmacy Technician in Training,TT17794,Revoked,12/13/2011,11/19/2012
+LEANNE,L,LEBLANC,Practitioner Controlled Substance,CS7084,Expired,12/31/1998,12/31/2008
+Jane,,LeBlond,Pharmacist,P8781,Active,4/13/2020,10/31/2021
+ROBERT,H,LEBOW,Practitioner Controlled Substance,CS757,Expired,12/31/1998,12/31/2002
+DOUGLAS,SHAW,LECAIN,Certified Pharmacy Technician,CT1146,Expired,3/11/2010,6/30/2015
+DOUGLAS,SHAW,LECAIN,Pharmacy Technician,T3369,Cancelled,4/13/2004,3/10/2010
+JENNA,MARIE,LECATES,Certified Pharmacy Technician,CT41141,Superceded,2/8/2016,3/31/2020
+JENNA,MARIE,LECATES,Pharmacy Technician in Training,TT22490,Superceded,9/12/2013,6/30/2014
+JENNA,MARIE,LECATES,Intern - Student,I57298,Active,2/19/2020,7/15/2022
+RONALD,K,LECHELT,Practitioner Controlled Substance,CS1101,Cancelled,12/31/1998,8/31/2005
+DORA,,LECHTENBERG,Pharmacist,P4608,Active,5/21/2002,12/31/2021
+TERRIE,,LECLAIRE,Pharmacy Technician in Training,TT39518,Expired,7/15/2015,6/30/2016
+SANDRA,A,LECLERC,Pharmacy Technician,T3533,Expired,8/10/2004,6/30/2007
+Ellen,,Ledbetter,Pharmacy Technician,T59974,Active,11/17/2020,4/30/2022
+HALEY,NICOLE,LEDBETTER,Pharmacy Technician,TT46966,Expired,12/11/2017,6/30/2020
+RHESA,NICHOLE,LEDBETTER,Pharmacy Technician,T2226,Expired,6/11/2002,6/30/2007
+JAMES,WEIL,LEDERER,Practitioner Controlled Substance,CS39062,Cancelled by Entity,6/19/2015,1/23/2020
+Kayla,,Lederle,Pharmacy Technician,TT51175,Expired,10/16/2018,10/16/2020
+CAMI,SNOW,LEDESMA,Pharmacy Technician in Training,TT17115,Expired,8/26/2011,6/30/2013
+Mitsy,,Ledesma,Pharmacy Technician,T58743,Active,7/21/2020,4/30/2022
+Mitsy,,Ledesma,Student Pharmacy Technician,ST52209,Expired,1/22/2019,7/15/2020
+MARGARITA,,LEDEZMA,Certified Pharmacy Technician,CT52144,Active,1/16/2019,12/31/2021
+MARGARITA,,LEDEZMA,Pharmacy Technician in Training,TT42733,Superceded,7/28/2016,6/30/2019
+Ross,Phillip,Ledgerwood,Practitioner Controlled Substance,CS60420,Active,1/22/2021,3/31/2022
+BRIDGET,M,LEDINGTON,Practitioner Controlled Substance,CS8885,Expired,3/6/2001,12/31/2007
+TREYTON,W,LEDOUX,Pharmacy Technician in Training,TT17475,Expired,10/26/2011,6/30/2015
+LANCE,PAUL,LEDUC,Pharmacy Technician,T4997,Active,3/29/2007,1/31/2022
+AMY,,LEE,Pharmacist,P7253,Active,5/7/2015,8/31/2021
+ANNE,SOOHYUN,LEE,Intern - Student,E48389,Active,6/8/2018,7/15/2022
+Annie,,Lee,Pharmacist,P8728,Expired,1/29/2020,1/31/2021
+Beau,,Lee,Practitioner Controlled Substance,CS62659,Active,7/30/2021,5/31/2022
+BIK-YUK,,LEE,Intern - Student,EI5206,Cancelled,,1/1/1900
+BIK-YUK,I,LEE,Pharmacist,P5202,Active,6/13/2002,9/30/2021
+BILL,A,LEE,Pharmacist,P3046,Expired,6/26/2002,6/30/2013
